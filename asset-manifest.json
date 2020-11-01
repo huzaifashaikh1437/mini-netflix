@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mini-netflix/static/css/main.73da1ed7.chunk.css",
+    "main.js": "/mini-netflix/static/js/main.694ea212.chunk.js",
+    "main.js.map": "/mini-netflix/static/js/main.694ea212.chunk.js.map",
+    "runtime-main.js": "/mini-netflix/static/js/runtime-main.e1c308e2.js",
+    "runtime-main.js.map": "/mini-netflix/static/js/runtime-main.e1c308e2.js.map",
+    "static/js/2.6d96028f.chunk.js": "/mini-netflix/static/js/2.6d96028f.chunk.js",
+    "static/js/2.6d96028f.chunk.js.map": "/mini-netflix/static/js/2.6d96028f.chunk.js.map",
+    "index.html": "/mini-netflix/index.html",
+    "precache-manifest.18f665f9eebc590e3dd0b3262ae8b1bd.js": "/mini-netflix/precache-manifest.18f665f9eebc590e3dd0b3262ae8b1bd.js",
+    "service-worker.js": "/mini-netflix/service-worker.js",
+    "static/css/main.73da1ed7.chunk.css.map": "/mini-netflix/static/css/main.73da1ed7.chunk.css.map",
+    "static/js/2.6d96028f.chunk.js.LICENSE.txt": "/mini-netflix/static/js/2.6d96028f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1c308e2.js",
+    "static/js/2.6d96028f.chunk.js",
+    "static/css/main.73da1ed7.chunk.css",
+    "static/js/main.694ea212.chunk.js"
+  ]
+}
